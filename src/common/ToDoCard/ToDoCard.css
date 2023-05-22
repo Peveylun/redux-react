@@ -1,0 +1,29 @@
+.todo-card {
+    margin: 5px;
+    width: 60%;
+    height: 50px;
+    border: black solid 1px;
+    display: flex;
+    border-radius: 15px;
+}
+
+.done {
+    display: flex;
+    align-items: center;
+    float: right;
+    margin-right: 20px;
+}
+
+.text-field {
+    width: 90%;
+    height: 100%;
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.vertical-line {
+    border-left: black solid 1px;
+    height: 50px;
+    margin-right: 15px;
+}
